@@ -1,0 +1,17 @@
+[
+  {
+    "name": "syrius",
+    "size": 300,
+    "type": "blue"
+  },
+  {
+    "name": "cylyon",
+    "size": 10,
+    "type": "red"
+  },
+  {
+    "name": "gemini",
+    "size": 2300,
+    "type": "yellow"
+  }
+]
